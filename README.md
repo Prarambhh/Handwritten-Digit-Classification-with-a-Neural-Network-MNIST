@@ -1,0 +1,2 @@
+# Handwritten-Digit-Classification-with-a-Neural-Network-MNIST
+MNIST handwritten digit classification project using a neural network. The goal is to build a model to accurately predict digits (0-9) from grayscale images in the MNIST dataset. This involves data loading, preprocessing, designing a neural network architecture, training with optimization, and evaluating performance using metrics like accuracy.
